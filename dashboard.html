@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard · Bramblett Tennis League</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;600&family=Bebas+Neue&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="page-body" data-page="dashboard" data-base="" id="bgta-shell">
+
+<section id="dashboard" style="padding-top:90px">
+  <div class="container">
+    <div class="section-header reveal">
+      <div class="dash-season-badge">🏆 Season 3 · BTL 2026</div>
+      <div class="section-tag">Overview</div>
+      <h2 class="section-title">League <span class="highlight">Dashboard</span></h2>
+    </div>
+    <div class="dash-stats reveal">
+      <div class="dash-stat-card"><div class="num" id="dash-teams">0</div><div class="lbl">Teams</div></div>
+      <div class="dash-stat-card"><div class="num" id="dash-players">0</div><div class="lbl">Players</div></div>
+      <div class="dash-stat-card"><div class="num" id="dash-matches">0</div><div class="lbl">Matches</div></div>
+      <div class="dash-stat-card"><div class="num" id="dash-upcoming">0</div><div class="lbl">Upcoming</div></div>
+    </div>
+    <div class="dash-links reveal">
+      <a class="dash-link-card" href="league/rules.html" style="text-decoration:none;color:inherit"><div class="icon">📜</div><h4>Rules</h4><p>Season 3 BTL league rules and format.</p></a>
+      <a class="dash-link-card" href="league/standings.html" style="text-decoration:none;color:inherit"><div class="icon">🏆</div><h4>Team Standings</h4><p>Current rankings, wins, and points.</p></a>
+      <a class="dash-link-card" href="league/teams.html" style="text-decoration:none;color:inherit"><div class="icon">👥</div><h4>Teams</h4><p>Team rosters and player lineups.</p></a>
+      <a class="dash-link-card" href="league/schedule.html" style="text-decoration:none;color:inherit"><div class="icon">📅</div><h4>Schedule</h4><p>Full season match calendar.</p></a>
+      <a class="dash-link-card" href="league/matches-scheduled.html" style="text-decoration:none;color:inherit"><div class="icon">🎾</div><h4>Matches Scheduled</h4><p>Upcoming matches at a glance.</p></a>
+      <a class="dash-link-card" href="lineup.html" style="text-decoration:none;color:inherit"><div class="icon">📋</div><h4>Match Scheduler</h4><p>Home captains schedule 3 DL lines, date, time &amp; court.</p></a>
+    </div>
+  </div>
+</section>
+
+<script src="js/config.js"></script>
+<script src="js/season3-data.js"></script>
+<script src="js/store.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/app.js"></script>
+<script src="js/pages/dashboard.js"></script>
+</body>
+</html>

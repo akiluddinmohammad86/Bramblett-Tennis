@@ -1,0 +1,92 @@
+﻿=== SCHEDULE (non-empty rows) ===
+Bramblett Tennis League, Season 3 - Summer 2026 Schedule
+Division A|Division B
+1|Hyderabad Hurricanes|Vizag Warriors
+2|Mumbai Strikers|Amaravathi Anchors
+3|Chennai Smashers|Varanasi Veers
+4|Bangalore Bulls|Delhi Dragons
+League Matches Schedule|Team|Home Matches|Away Matches
+Week 1 (May 28th to Jun 3rd)|Hyderabad Hurricanes (A1) (H) vs Mumbai Strikers (A2) (A)|Chennai Smashers (A3) (H) vs Bangalore Bulls (A4) (A)|Vizag Warriors (B1) (H) vs Amaravathi Anchors (B2) (A)|Varanasi Veers (B3) (H) vs Delhi Dragons (B4) (A)|Intra-Division|Hyderabad Hurricanes (A1)|3|2
+Week 2 (Jun 4th to Jun 10th)|Vizag Warriors (B1) (H) vs Hyderabad Hurricanes (A1) (A)|Mumbai Strikers (A2) (H) vs Varanasi Veers (B3) (A)|Delhi Dragons (B4) (H) vs Chennai Smashers (A3) (A)|Bangalore Bulls (A4) (H) vs Amaravathi Anchors (B2) (A)|Cross-Division|Mumbai Strikers (A2)|2|3
+Week 3 (Jun 11th to Jun 17th)|Chennai Smashers (A3) (H) vs Hyderabad Hurricanes (A1) (A)|Bangalore Bulls (A4) (H) vs Mumbai Strikers (A2) (A)|Varanasi Veers (B3) (H) vs Vizag Warriors (B1) (A)|Amaravathi Anchors (B2) (H) vs Delhi Dragons (B4) (A)|Intra-Division|Chennai Smashers (A3)|3|2
+Week 4 (Jun 18th to Jun 24th)|Hyderabad Hurricanes (A1) (H) vs Amaravathi Anchors (B2) (A)|Delhi Dragons (B4) (H) vs Mumbai Strikers (A2) (A)|Chennai Smashers (A3) (H) vs Vizag Warriors (B1) (A)|Varanasi Veers (B3) (H) vs Bangalore Bulls (A4) (A)|Cross-Division|Bangalore Bulls (A4)|2|3
+Week 5 (Jun 25th to Jul 1st)|Hyderabad Hurricanes (A1) (H) vs Bangalore Bulls (A4) (A)|Mumbai Strikers (A2) (H) vs Chennai Smashers (A3) (A)|Vizag Warriors (B1) (H) vs Delhi Dragons (B4) (A)|Amaravathi Anchors (B2) (H) vs Varanasi Veers (B3) (A)|Intra-Division|Vizag Warriors (B1)|3|2
+Amaravathi Anchors (B2)|2|3
+Playoff Matches Schedule|Varanasi Veers (B3)|3|2
+Semi Finals (Jul 2nd to Jul 8th)|Semi Final 1|Semi Final 2|Delhi Dragons (B4)|2|3
+Division A 1st seed (H) vs Division B 2nd seed (A)|Division B 1st seed (H) vs Division A 2nd seed (A)
+Finals (Jul 9th to Jul 15th)|Winner Semi Final 1 (H) vs Winner Semi Final 2 (A)
+*** JULY 17 ***|!!! Bramblett Tennis League, Season 3 - Summer 2026 "CELEBRATION" !!!
+=== RULES ===
+Rules
+Bramblet Tennis League is a friendly league. EC or organizers will NOT be held responsible for any injuries, accidents or health issues.
+League Format
+Division A: 4 teams
+Division B: 4 teams
+Total League Size: 48
+1 Point per each line won.
+Weekly match score example : 1-2, 2-1, 3-0, 0-3. This is main score, early bird extras are separate.
+Each team will play every other team in their Division in the regular season and 2 matches against the opposite Divison. Total 5 league matches per team.
+Team Roster
+Each team consists of 6 players , 3 Double Lines.
+It's mandatory for Rank 1 players to play L1 and Rank 6 players to play L3
+Player Replacement
+In case of emergency, injury or other genuine cases, replacement will be permitted. The replacement will come from the 'Waitlist'.Once a replacement is selected, the original player will NOT be permitted to play this season.
+Match Completion Timeline
+A duration of one week is provided to complete all the matches for each round.
+Start: Friday (1st day)
+End: Thursday (7th day)
+Scheduling Responsibilities
+The home team captain is responsible for coordinating with the away team captain to schedule matches for all the lines within 3 days (Sunday 10 PM) of publishing the lineups
+For each line, the home team should provide 3 play dates (2 in week 1 and 1 in week 2) for scheduling the matches
+Each player should provide at least 2 available dates for the match
+If all 4 players are unable to arrive at a date for the match, the away team should provide 3 dates for the match
+If there is still no consensus, the default date to complete the match is Thursday at 7 PM. The team that shows up on the courts will be declared the winner
+The home team is responsible for booking courts and providing balls for the match.
+The home captain is responsible for informing the scores to EC
+Each division maintains its own standings (A and B separate).
+walk over games will considered as completed
+Pausing of games allowed only due to incliment weather.
+Line-up Exchange Rules
+Deadline: Lineups MUST be exchanged by 10 PM Thursday.
+Default day for playing: 1st Wednesday after the line-up exchange
+Team standings are determined by: total points, head-to-head, fewest sets lost, fewest games lost, then coin toss.
+Line Formation Rules
+Rank1 has to play Line 1
+Rank6 has to Play Line 3
+Line1 (Rank sum) <= Line2 (Rank sum) <= Line3 (Rank sum)
+Semifinals
+ò  Semi 1: Division A #1 seed vs Division B #2 seed
+ò  Semi 2: Division B #1 seed vs Division A #2 seed
+Finals
+ò  Championship: Winner Semi 1 vs Winner Semi 2
+Playoff Lineup Rules
+Same rules as the regular season apply for all lines
+On-Court Rules
+15-Minute Default Rule: A 15-minute default rule will be enforced for all games. If one team is not present within 15 minutes of the mutually agreed start time, that team will forfeit the game, and the opposing team will be awarded the points.
+Scoring Format: All matches will be played as best 2 out of 3 sets, with a full 3rd set. However, if all four players agree at the start of the match, a 12-point match tiebreak can substitute for the full 3rd set.
+Rest Time: Rest time during changeovers is limited to 1 minute, except between sets, which allows for up to 5 minutes.
+Medical Timeout: In the event of an injury during a match, a medical timeout of up to 5 minutes will be permitted. Only one medical timeout is allowed per injury, and if the same injury recurs, no additional medical timeout will be granted.
+Match Continuity Rule
+Once a match has started, it cannot be paused or stopped to be completed on another day, nor delayed for more than 5 minutes, unless for valid reasons (see below). Any team causing such a pause or stop (without a valid reason) will forfeit the match, and the opposing team will be awarded the points.
+Valid reasons include:
+Rain delays or deteriorating court conditions, such as non-working lights
+NOT valid reasons:
+Player injury
+Leaving court for family or other commitments
+Any exception to this rule must be discussed between the ECs and the respective Captains to reach a resolution. ECs will have the ultimate authority over any exceptions.
+Match Rescheduling
+Requests for rescheduling should be made at least 12 hours prior to the match time
+An alternate date/time should be fixed before rescheduling
+The match should be rescheduled by the Play By Date for that week's play
+Late Passes
+Each team will be provided 2 late passes for their regular season matches.
+Requests for late passes should be raised by the captain before a match is scheduled
+Sportsmanship & Condut
+Captains are responsible for fair compliance with rankings
+No coaching between games, you can coach during set breaks.
+Lineup calls should be fair, and opponents must respect the calls.
+All disputes will be handled by  league ECs
+NOTE: For any undefined scenarios, conflicts, extensions, exceptions etc., ECs will try to find resolution based on ALTA rules as guidelines. ALL DECISIONS BY ECs ARE FINAL.
+Donation
+Any donation towards the league is non-refundanble.

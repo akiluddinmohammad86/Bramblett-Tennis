@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Match Scheduler · Bramblett Tennis League</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;600&family=Bebas+Neue&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="page-body" data-page="lineup" data-base="" id="bgta-shell">
+
+<section id="lineup" style="padding-top:90px">
+  <div class="container">
+    <div class="section-header reveal">
+      <div class="section-tag">📋 Home Captain Scheduler</div>
+      <h2 class="section-title">Match <span class="highlight">Lineup Manager</span></h2>
+      <p style="color:var(--muted);font-size:.88rem;max-width:720px;margin:12px auto 0;line-height:1.65">
+        Each team plays <strong>3 doubles lines</strong> every week. The <strong>home team captain</strong> schedules <strong>each line independently</strong> with its own date, time, and court. Submit each DL separately for maximum scheduling flexibility.
+      </p>
+    </div>
+
+    <div class="scheduler-panel reveal visible">
+      <h3>🎾 Schedule Doubles Lines</h3>
+
+      <div class="sched-teams-row">
+        <div class="fg sched-team-fg">
+          <label>Home Team</label>
+          <select id="schedHomeTeam" onchange="onSchedulerTeamChange()"></select>
+        </div>
+        <div class="sched-vs-badge">VS</div>
+        <div class="fg sched-team-fg">
+          <label>Opponent Team</label>
+          <select id="schedAwayTeam" onchange="onSchedulerTeamChange()"></select>
+        </div>
+      </div>
+
+      <div id="dlLinesContainer"></div>
+
+      <div class="aform-group" style="margin-top:16px">
+        <label>General Captain Notes</label>
+        <input type="text" id="schedNotes" placeholder="Substitutions, weather backup, general info…">
+      </div>
+    </div>
+
+    <div class="lineup-panel reveal visible" style="margin-top:28px">
+      <h3>📋 Scheduled Match Lineups</h3>
+      <p style="font-size:.82rem;color:var(--muted);margin-bottom:16px">Saved schedules from home captains (3 doubles lines per match).</p>
+      <div id="scheduledLineupsList"></div>
+    </div>
+  </div>
+</section>
+
+<script src="js/config.js"></script>
+<script src="js/season3-data.js"></script>
+<script src="js/store.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/app.js"></script>
+<script src="js/match-lineup.js"></script>
+<script src="js/pages/lineup.js"></script>
+</body>
+</html>
