@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Schedule · Bramblett Tennis League</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;600&family=Bebas+Neue&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body class="page-body" data-page="schedule" data-base="../" id="bgta-shell">
+
+<section id="schedule" style="padding-top:90px">
+  <div class="container">
+    <div class="section-header reveal">
+      <div class="section-tag">Season 3 BTL 2026 · Summer 2026</div>
+      <h2 class="section-title" style="color:var(--cream)">League <span style="color:var(--lime)">Schedule</span></h2>
+      <p style="color:rgba(245,240,232,.55);font-size:.85rem;margin-top:10px;max-width:640px;margin-left:auto;margin-right:auto">5 regular-season weeks + playoffs · Default play Thursday 7 PM · Lineup exchange by Thursday 10 PM</p>
+    </div>
+    <div class="schedule-tabs">
+      <button class="tab-btn active" onclick="filterMatches('all',this)">All (23)</button>
+      <button class="tab-btn" onclick="filterMatchesByWeek('Week 1',this)">Week 1</button>
+      <button class="tab-btn" onclick="filterMatchesByWeek('Week 2',this)">Week 2</button>
+      <button class="tab-btn" onclick="filterMatchesByWeek('Week 3',this)">Week 3</button>
+      <button class="tab-btn" onclick="filterMatchesByWeek('Week 4',this)">Week 4</button>
+      <button class="tab-btn" onclick="filterMatchesByWeek('Week 5',this)">Week 5</button>
+      <button class="tab-btn" onclick="filterMatchesByWeek('Semi Finals',this)">Semis</button>
+      <button class="tab-btn" onclick="filterMatchesByWeek('Finals',this)">Final</button>
+      <button class="tab-btn" onclick="filterMatches('upcoming',this)">Upcoming</button>
+      <button class="tab-btn" onclick="filterMatches('completed',this)">Completed</button>
+    </div>
+    <div id="matchesList"></div>
+    <div class="add-match-panel">
+      <h3>➕ Schedule a New Match</h3>
+      <div class="form-row">
+        <div class="fg"><label>Home Team</label><select id="matchHome"></select></div>
+        <div class="fg"><label>Away Team</label><select id="matchAway"></select></div>
+        <div class="fg"><label>Date</label><input type="date" id="matchDate"></div>
+      </div>
+      <div class="form-row">
+        <div class="fg"><label>Time</label><input type="time" id="matchTime" value="09:00"></div>
+        <div class="fg"><label>Court</label>
+          <select id="matchCourt">
+            <option>Bramblett</option>
+            <option>Matt Community Park</option>
+            <option>Sawnee Community Park</option>
+          </select>
+        </div>
+        <div class="fg"><label>Format</label>
+          <select id="matchFormat"><option>Singles – Best of 3</option><option>Doubles – Best of 3</option><option>Mixed Doubles</option><option>Team Match (6 courts)</option></select>
+        </div>
+      </div>
+      <button class="btn-primary" onclick="addMatch()">Schedule Match</button>
+    </div>
+  </div>
+</section>
+
+<script src="../js/config.js"></script>
+<script src="../js/season3-data.js"></script>
+<script src="../js/store.js"></script>
+<script src="../js/layout.js"></script>
+<script src="../js/app.js"></script>
+<script src="../js/pages/schedule.js"></script>
+</body>
+</html>

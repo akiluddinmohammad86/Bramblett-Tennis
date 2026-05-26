@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teams · Bramblett Tennis League</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;600&family=Bebas+Neue&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body class="page-body" data-page="teams" data-base="../" id="bgta-shell">
+
+<section id="teams" style="padding-top:90px">
+  <div class="container">
+    <div class="section-header reveal">
+      <div class="section-tag">Season 3 BTL 2026 · Team Pics</div>
+      <h2 class="section-title">Meet the <span class="highlight">Teams</span></h2>
+    </div>
+    <div class="teams-grid" id="teamsGrid">
+      <p style="text-align:center;color:var(--muted);padding:20px" id="teamsLoading">Loading teams…</p>
+    </div>
+    <div class="captain-register-panel reveal" id="captainRegisterPanel">
+      <h3>🎾 Register Your Team</h3>
+      <p>Signed in as a captain? Register your team below and start adding players.</p>
+      <button class="btn-primary" onclick="openOverlay('registerTeamModal')">Register a Team</button>
+    </div>
+    <div style="text-align:center;margin-top:16px;display:none" id="adminRegisterBtn">
+      <button class="btn-primary" onclick="openOverlay('registerTeamModal')">➕ Add Team (Admin)</button>
+    </div>
+  </div>
+</section>
+
+<script src="../js/config.js"></script>
+<script src="../js/season3-data.js"></script>
+<script src="../js/store.js"></script>
+<script src="../js/layout.js"></script>
+<script src="../js/app.js"></script>
+<script src="../js/pages/teams.js"></script>
+</body>
+</html>
